@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="p6i8ME8cgkKaFyZOnDu3Yv8LMdDJwfbrpoXvoc4ReFQ" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NathanKrupa/Centurion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
