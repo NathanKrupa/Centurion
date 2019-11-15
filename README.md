@@ -1,39 +1,7 @@
 <meta name="google-site-verification" content="p6i8ME8cgkKaFyZOnDu3Yv8LMdDJwfbrpoXvoc4ReFQ" />
 
-## Welcome to GitHub Pages
+# Centurion: A Roman soldier with authority over 100 Legionaries.
 
-You can use the [editor on GitHub](https://github.com/NathanKrupa/Centurion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nathan Krupa writes grants professionally to raise money to feed the hungry. He also blogs about fundraising as [The Almoner](https://thealmoner.com) and has published the book [Letters from the Almoner](https://amzn.to/2NOZt46) on the topic of fundraising in the church and ministry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NathanKrupa/Centurion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nathan is just starting his adventure in learning to code, however, and looks forward to improving his websites and learning how to use advanced data analytics for fundraising. He's also hoping to be learn to program biomimetic robots. 
