@@ -2,7 +2,7 @@
 
 # Centurion: A Roman soldier with authority over 100 Legionaries.
 
-Nathan Krupa writes grants professionally to raise money to feed the hungry. He also blogs about fundraising as [The Almoner](https://thealmoner.com) and has published the book [Letters from the Almoner](https://amzn.to/2NOZt46) on the topic of fundraising in the church and ministry. He recently created the [Fundraiser Wiki](https://fundraiserwiki.thealmoner.com) to build a collaborative knowledgebase focused on fundraising best practices. 
+Nathan Krupa writes grants professionally to raise money to feed the hungry. He also blogs about fundraising as [The Almoner](https://thealmoner.com) and has published the book [Letters from the Almoner](https://amzn.to/2NOZt46) on the topic of fundraising in the church and ministry. He recently created the [Fundraiser Wiki](https://fundraiserwiki.com) to build a collaborative knowledgebase focused on fundraising best practices. 
 
 Confirming his passion to be an indie author, Nathan just published his second book, [Demoniac](https://amzn.to/39qHx96), which tells the story being possessed by the devil and what it took to get free. He is building a companion site to the book at [Demoniac.net](https://demoniac.net).
 
